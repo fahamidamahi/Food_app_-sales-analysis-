@@ -11,4 +11,4 @@ An interactive Sales Dashboard built in Microsoft Excel using Power Query, Data 
 - City insights: Top-5 cities by sales, led by Bengaluru.
 - Interactivity: Ability to filter by month, food category (Desi, Chinese, Pasta, Roll, Sides, and more), and restaurant name.
 
-- Dashboard Interaction <a href="https://github.com/fahamidamahi/Sale_Project_Excel/blob/master/Final%20Sales%20Dashboard.png">View Dashboard</a>
+- Dashboard Interaction <a href="https://github.com/fahamidamahi/Food_app_-sales-analysis-/blob/master/Final%20Dashboard.png">View Dashboard</a>
