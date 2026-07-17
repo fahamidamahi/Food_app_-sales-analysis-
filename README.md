@@ -41,7 +41,7 @@ An interactive Sales Dashboard built in Microsoft Excel using Power Query, Data 
 
 ## Dashboard
 
-<img width="1803" height="841" alt="Final Food_app_-sales-analysis Dashboard" src="https://github.com/user-attachments/assets/02277d7f-44e4-4bf7-918b-75e2b31ac4a5" />
+<img width="1803" height="841" alt="Final Food_app_-sales-analysis Dashboard" src="https://github.com/fahamidamahi/Food_app_-sales-analysis-/blob/master/Final%20Dashboard.png" />
 
 ## Business Insights Derived
 - Sales show a dip in February–March, followed by steady recovery through August.
