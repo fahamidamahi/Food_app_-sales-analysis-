@@ -12,3 +12,43 @@ An interactive Sales Dashboard built in Microsoft Excel using Power Query, Data 
 - Interactivity: Ability to filter by month, food category (Desi, Chinese, Pasta, Roll, Sides, and more), and restaurant name.
 
 - Dashboard Interaction <a href="https://github.com/fahamidamahi/Food_app_-sales-analysis-/blob/master/Final%20Dashboard.png">View Dashboard</a>
+## Process 
+1️⃣ Data Import & Transformation (Power Query)
+      - Imported raw sales, restaurant, and order datasets into Power Query
+      - Cleaned and structured data
+      - Handled inconsistencies and formatting issues
+      - Created new columns from existing columns
+      - Transformed date fields for time-based analysis (monthly, daily, weekly trends)
+
+2️⃣ Data Modeling
+      - Established relationships between:
+              Orders ↔ Restaurant (via Restaurant ID)
+              Orders ↔ Location (via State/City)
+      Built a structured data model inside Microsoft Excel
+
+
+3️⃣ Analysis Layer
+      - Created DAX measures for KPI calculations
+      - Applied calculated metrics and aggregations
+      - Designed KPI summary cards (Total Sales, Average Rating, Average Order Value, Ratings Count, Total Orders)
+
+4️⃣ Visualization & Dashboard
+      - Built interactive line, bar, and donut charts
+      - Designed a state-wise sales heat map using the Bing Maps visual
+      - Designed dynamic dashboard layout
+      - Implemented Slicers for filtering: Month, Category, Restaurant Name
+      - Developed a fully interactive reporting interface
+
+## Dashboard
+
+<img width="1803" height="841" alt="Final Sales Dashboard" src="https://github.com/user-attachments/assets/02277d7f-44e4-4bf7-918b-75e2b31ac4a5" />
+
+## Business Insights Derived
+- 2024 revenue outperformed 2023, showing strong growth.
+- Female customers contribute a higher percentage of total revenue.
+- The West region generates the highest revenue.
+- Certain age groups (25–34 and 55+) contribute significantly to total sales.
+- Revenue is higher on weekdays compared to weekends.
+
+## Conclusion 
+The dashboard delivers a clear view of food delivery sales performance, highlighting seasonal trends, food type preferences, and regional demand patterns. It enables quick identification of top-performing cities, quarters, and food categories, supporting effective data-driven decision-making for the business.
